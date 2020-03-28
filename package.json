@@ -19,22 +19,15 @@
 		"css-loader": "^0.28.4",
 		"live-server": "^1.2.1",
 		"mobx": "^4.2.0",
-		"moment": "^2.24.0",
-		"node-sass": "^4.11.0",
-		"normalize.css": "^8.0.1",
+		"node-sass": "^4.13.1",
 		"react": "^16.7.0",
-		"react-addons-shallow-compare": "^15.6.2",
-		"react-dates": "^20.1.0",
 		"react-dom": "^16.7.0",
 		"react-redux": "^6.0.1",
 		"react-router-dom": "^4.2.2",
 		"redoc": "^2.0.0-rc.24",
-		"redux": "^4.0.1",
 		"sass-loader": "^7.1.0",
-		"start-server": "0.0.4",
 		"style-loader": "^0.18.2",
 		"styled-components": "^5.0.1",
-		"uuid": "^3.3.2",
 		"webpack": "^4.28.4",
 		"webpack-cli": "^3.2.1",
 		"webpack-dev-server": "^3.1.14"
@@ -43,8 +36,6 @@
 		"@babel/cli": "^7.4.3",
 		"@babel/core": "^7.4.3",
 		"@babel/plugin-proposal-class-properties": "^7.4.0",
-		"@babel/plugin-proposal-object-rest-spread": "^7.4.3",
-		"babel-plugin-inline-react-svg": "^1.1.0",
-		"jest": "^24.9.0"
+		"@babel/plugin-proposal-object-rest-spread": "^7.4.3"
 	}
 }
