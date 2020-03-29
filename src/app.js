@@ -42,7 +42,7 @@ class Jsx extends React.Component {
 					},
 				}}
 				spec={
-					'https://api.cienciaargentina.dev/openapi.yaml'
+					'https://petstore.swagger.io/v2/swagger.yaml'
 				}
 			/>
 		)
