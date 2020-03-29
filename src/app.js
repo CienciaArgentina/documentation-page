@@ -42,7 +42,7 @@ class Jsx extends React.Component {
 					},
 				}}
 				spec={
-					'https://api.cienciaargentina.dev/openapi/openapi.yaml'
+					'https://api.cienciaargentina.dev/openapi.yaml'
 				}
 			/>
 		)
